@@ -64,3 +64,7 @@ To scan the local network and identify devices with open ports, helping understa
    HTML:
 
     nmap -sS 192.168.1.0/24 -oX scanresult.xml
+
+
+Note:
+For privacy and security reasons, I have masked or omitted real IP addresses and host-specific details from the scan results. This is done to protect my local network and follow responsible disclosure practices, while still demonstrating understanding of the task.
